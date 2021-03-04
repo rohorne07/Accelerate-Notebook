@@ -1,8 +1,8 @@
 # Accelerate-Notebook
 
-Accelerating hit acquisition in drug screening, using a simulated docking molecule-target dataset as an example
+## Accelerating hit acquisition in drug screening, using a simulated docking molecule-target dataset as an example
 
-Environment set up (note python 3.6 required for RDKit to run smoothly):
+### Environment set up (note python 3.6 required for RDKit to run smoothly):
 
 conda create -n “env_name” python=3.6 jupyter pandas seaborn matplotlib numpy
 
