@@ -6,7 +6,7 @@
 
 conda create -n “env_name” python=3.6 jupyter pandas seaborn matplotlib numpy
 
-conda activate ‘env name’
+conda activate "env_name"
 
 conda install -c conda-forge rdkit
 
